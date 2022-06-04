@@ -18,8 +18,8 @@ Used :
 2) Selection Sort
 3) Insertion Sort
 4) Merge Sort
-5) Quick Sort
-6) Heap Sort
+5) Heap Sort
+6) Quick Sort
 
 #Website Link :
 
