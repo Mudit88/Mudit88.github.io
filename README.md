@@ -14,8 +14,8 @@ This slider will help you to set spped according to the need.
 ![image](https://user-images.githubusercontent.com/88089351/171945478-da24a117-78e1-4fae-a8a2-765684319fee.png)
 
 Used : 
-1) Bubble sort
-2) Selection Sort
+1) Selection Sort
+2) Bubble sort
 3) Insertion Sort
 4) Merge Sort
 5) Heap Sort
